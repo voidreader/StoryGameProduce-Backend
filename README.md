@@ -24,7 +24,8 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+스토리 게임 제작시스템(Node.js)를 [Nest.js](https://github.com/nestjs/nest) & [GraphQL](https://graphql.org/) & [TypeORM](https://typeorm.io/)로 변경작업을 시작합니다.  
+**이 프로젝트는 개인 사이드 프로젝트입니다.**
 
 ## Installation
 
